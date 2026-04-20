@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Guillermo Benjamin Galindo Sempertegui. 👋
 
 Desarrollador Full-Stack enfocado en crear soluciones eficientes y arquitecturas limpias. Trabajo principalmente con Flutter, TypeScript y ecosistemas Linux.
 
