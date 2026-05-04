@@ -37,6 +37,6 @@ $ glnd-tech --whoami
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glnd-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&v=1" alt="Top Langs" />
   </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glnd-dev)](https://github.com/anuraghazra/github-readme-stats)
   
 </td>
