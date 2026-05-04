@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/glnd-tech/glnd-tech/main/assets/gojo.jpg" width="140" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/glnd-tech/glnd-tech/main/assets/gojo.jpeg" width="140" style="border-radius: 50%;" />
 
 <br/><br/>
 
