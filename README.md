@@ -4,6 +4,11 @@
   <a href="https://github.com/glnd-dev">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glnd-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="Top Langs" />
   </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=glnd-dev">
+</a>
+  
 <tr>
 <td valign="top" width="54%">
 
