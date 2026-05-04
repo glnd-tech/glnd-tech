@@ -33,7 +33,7 @@ $ glnd-tech --whoami
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glnd-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e&count_private=true)](https://github.com/glnd-dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glnd-dev)](https://github.com/glnd-dev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glnd-dev)](https://github.com/glnd-dev/README)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glnd-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)](https://github.com/glnd-dev)
 
