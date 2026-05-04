@@ -87,9 +87,10 @@ Sistema integral de gestión de gimnasios: control de accesos, reservas de clase
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glnd-tech&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff)](https://github.com/glnd-tech)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glnd-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff)](https://github.com/glnd-tech)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=glnd-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glnd-tech&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)](https://github.com/glnd-tech)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glnd-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)](https://github.com/glnd-tech)
 
 </div>
 
